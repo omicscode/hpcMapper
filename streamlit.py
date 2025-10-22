@@ -1,13 +1,10 @@
 #/usr/bin/python3
 # Gaurav Sablok
-# University of Potsdam
-# Potsdam,Germany
-# Date 2024-05-10
+##codeprog@icloud.com
 import streamlit as st
 
 st.set_page_config(
                  page_title="Slurm Configurator",
-                 page_icon="Universitat Potsdam",
                  layout="wide",
                  initial_sidebar_state="expanded")
 st.header("Slurm Configurator")
