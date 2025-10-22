@@ -2,7 +2,12 @@
 name = "hpcMapper"
 version = "0.1.0"
 edition = "2024"
-
+readme = "README.md"
+license = "MIT"
+authors = ["Gaurav Sablok <codeprog@icloud.com>"]
+description = "hpcMapper"
+homepage = "https://github.com/omicscode/hpcMapper"
+repository = "https://github.com/omicscode/hpcMapper"
 [dependencies]
 crossterm = "0.29.0"
 ratatui = "0.29.0"
